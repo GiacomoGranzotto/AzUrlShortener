@@ -78,13 +78,13 @@
 					"raw": "{\r\n    \"Vanity\": \"goo2\",\r\n    \"Title\": \"Google\",\r\n    \"Url\": \"https://www.google.com\",\r\n    \"Schedules\": []\r\n}"
 				},
 				"url": {
-					"raw": "{{BaseUrl}}/api/UrlUpsert",
+					"raw": "{{BaseUrl}}/api/UrlCreate",
 					"host": [
 						"{{BaseUrl}}"
 					],
 					"path": [
 						"api",
-						"UrlUpsert"
+						"UrlCreate"
 					]
 				}
 			},
